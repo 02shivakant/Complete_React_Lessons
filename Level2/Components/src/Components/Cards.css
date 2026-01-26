@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.image{
+    background-color: rgb(212, 220, 227);
+    border-radius: 50%;
+    height: 600px;
+    width: 600px;
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+}
+.holoGram{
+    border-radius: 100px;
+    padding: 90px;
+    background-color: rgb(60, 58, 58);
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+#logo{
+    
+    height: 550px;
+    border-radius: 50%;
+    width: 520px;
+}
+#disc{
+    font-size: 100px;
+    margin: 30px;
+    padding: 100px;
+    
+}
